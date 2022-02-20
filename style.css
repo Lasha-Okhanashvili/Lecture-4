@@ -1,0 +1,26 @@
+a { 
+	color: blue; 
+    font-family: "BPG Nino Mtavruli", sans-serif;
+}
+
+.active{
+	color: red;
+}
+
+.center{
+	text-align: center;
+}
+ ul {
+ 	display: flex;
+ }
+ li{
+ 	margin-right :25px ;
+ }
+ h2 { 
+ 	margin-top: 88px;
+    font-family:  'Roboto', sans-serif;
+ }
+ .d-flex{
+ 	display: flex;
+ }
+ 
